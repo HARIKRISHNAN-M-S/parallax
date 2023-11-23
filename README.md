@@ -1,4 +1,4 @@
-# parallax
+
 # Parallax Animation in React
 
 # Getting Started with Create React App
